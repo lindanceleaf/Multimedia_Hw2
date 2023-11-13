@@ -12,6 +12,12 @@ python Main.py
 ```
 即可一次性執行完所有作業的要求
 
+或者要分開執行題目a, b跟d，可以分別輸入
+```bash
+python Q1andQ2.py
+python Q4.py
+```
+
 ## 執行結果
 資料夾內會多出7張圖片
 - 3張題目a的結果
