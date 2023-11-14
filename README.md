@@ -19,7 +19,15 @@ python Q4.py
 ```
 
 ## 執行結果
-資料夾內會有7張圖片
+資料夾內會有8張圖片
 - 3張題目a的結果
+    - Q1_3x3.jpg
+    - Q1_7x7.jpg
+    - Q1_11x11.jpg
 - 3張題目b的結果
-- 1張題目d的結果
+    - Q2_sigma_1.jpg
+    - Q2_sigma_10.jpg
+    - Q2_sigma_30.jpg
+- 2張題目d的結果
+    - Q4_unsharp.jpg
+    - Q4_edge_detection.jpg
